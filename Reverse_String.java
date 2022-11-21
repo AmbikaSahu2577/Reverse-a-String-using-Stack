@@ -18,7 +18,7 @@ class Reverse_String
 
 		while(!stack.empty())
 		{
-          System.out.print(stack.pop());
+                  System.out.print(stack.pop());
 		}
 	}
 }
